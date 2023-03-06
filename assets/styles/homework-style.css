@@ -1,0 +1,25 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 50px 50px;
+}
+
+.wrapper-1 {
+background-color: rgb(41, 207, 41);
+}
+.wrapper-2 {
+background-color:yellow;
+}
+
+.wrapper-3 {
+background-color: aqua;
+}
+.wrapper-4 {
+background-color: blueviolet;
+}
+.wrapper-5 {
+background-color: aquamarine;
+}
+.wrapper-6 {
+background-color:chocolate;
+}
