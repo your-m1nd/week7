@@ -624,9 +624,11 @@ margin-left: 0px;
     height: 638px;
 }
 
-.portrait {
-    display: none;
-}
+.img-portrait {
+    border-style: none;
+    width: 141px;
+    margin-top: -169px;
+    margin-left: 150px;}
 
 .section-1 {
     display: grid;
